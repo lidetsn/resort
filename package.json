@@ -2,7 +2,7 @@
   "name": "resort",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lidetsn.github.io/resort/",
+  "homepage": "https://lidetsn.github.io/resort",
   "dependencies": {
     "contentful": "^7.10.0",
     "gh-pages": "^2.1.1",
