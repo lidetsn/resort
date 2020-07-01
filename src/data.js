@@ -31,7 +31,8 @@ export default [
       breakfast: false,
       featured: false,
       description:
-      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      extras: [
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",     
+       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
         "Full-sized, pH-balanced toiletries",
