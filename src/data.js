@@ -31,8 +31,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
-      extras: [
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
         "Full-sized, pH-balanced toiletries",
@@ -88,8 +87,8 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
-      extras: [
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
+        extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
         "Full-sized, pH-balanced toiletries",
@@ -145,7 +144,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -202,7 +201,7 @@ export default [
       breakfast: true,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -259,7 +258,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -316,7 +315,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -373,7 +372,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -430,7 +429,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -487,7 +486,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -544,7 +543,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -601,7 +600,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -658,7 +657,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -715,7 +714,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+      "Located in Addis Ababa,Addis Resort, a Luxury Collection Hotel, Addis Ababa is in the city center. The area's natural beauty can be seen at Unity Park and Sheger Park, while National Museum of Ethiopia and “Red Terror” Martyrs' Memorial Museum are cultural highlights. Enjoy the great outdoors with mountain biking, horse riding, and hiking/biking trails, or hop on a bike rental nearby and explore all the area has to offer.",      
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
